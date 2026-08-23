@@ -85,11 +85,6 @@ I'm a robotics enthusiast from **FRC Team 11019 Xplore**, based in Shanghai. I b
 ### GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=CaryWang1234&show_icons=true&theme=tokyonight&hide_border=false&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaryWang1234&layout=compact&theme=tokyonight&hide_border=false&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CaryWang1234&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&area_color=70a5fd" />
 </div>
 
@@ -97,6 +92,6 @@ I'm a robotics enthusiast from **FRC Team 11019 Xplore**, based in Shanghai. I b
 
 <div align="center">
 
-<sub>Built with 🥥 and PLA-CF the FRC workshop.</sub>
+<sub>Built with 🥥 and PLA-CF in the FRC workshop.</sub>
 
 </div>
