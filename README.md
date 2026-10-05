@@ -2,7 +2,7 @@
 
 # Cary Wang
 
-**FRC Team 11019 · 3D Printing/Vibe Coding Expert · Shanghai**
+**FRC Team 11019 · 3D Printing/Vibe Coding Addict · Shanghai**
 
 <a href="https://github.com/CaryWang1234">
   <img src="https://img.shields.io/badge/GitHub-CaryWang1234-181717?style=flat-square&logo=github&logoColor=white" />
